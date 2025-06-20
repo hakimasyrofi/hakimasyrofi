@@ -1,7 +1,7 @@
 # 🌟 Welcome to My GitHub Profile!
 
 Hi, I'm Hakim 👋  
-A Software Product Developer @ Holdex 🚀  
+A Software Product Developer at Holdex 🚀  
 
 ---
 
